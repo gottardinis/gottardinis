@@ -31,15 +31,9 @@ Sou estudante de Sistemas de Informação na FIAP, apaixonada por tecnologia e p
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    <i class="devicon-aarch64-plain colorido"></i>
-/>
-<i class="devicon-aarch64-plain colorido"></i>
+
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 <br/>
 <br/>
 
