@@ -37,7 +37,7 @@ Sou estudante de Sistemas de Informação na FIAP, apaixonada por tecnologia e p
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
           
 <br/>
 <br/>
