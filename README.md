@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou a Sophia Gottardini
 
-### 💜 Development Intern @ TOTVS • Information Systems @ FIAP
+### 💜 Estagiária de Gestão na TOTVS • Sistemas de Informação @ FIAP
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=750&lines=Transformando+ideias+em+solu%C3%A7%C3%B5es.;Sempre+aprendendo%2C+sempre+evoluindo.;Cada+projeto+%C3%A9+um+novo+desafio.;Grandes+resultados+come%C3%A7am+com+pequenos+passos.;Tecnologia+para+criar+impacto+real.;Sonhe.+Planeje.+Conquiste." />
 
@@ -26,52 +26,65 @@
 
 # 💜 Sobre mim
 
-🎓 Sou estudante de **Sistemas de Informação na FIAP (4º semestre)**.
+🎓 **Sistemas de Informação** — FIAP (4º semestre)
 
-💼 Atualmente atuo como **Estagiária de Desenvolvimento na TOTVS**.
+💼 **Estagiária de Gestão** — TOTVS
 
-💻 Tenho grande interesse por desenvolvimento de software, principalmente **Back-end**, banco de dados e inteligência artificial.
+💻 Interesse em Desenvolvimento Back-end, Banco de Dados e Inteligência Artificial.
 
-🚀 Gosto de aprender novas tecnologias, enfrentar desafios e transformar ideias em soluções que gerem impacto real.
+🚀 Sempre em busca de novos desafios e aprendizado contínuo.
 
 ---
 
 # 💻 Tech Stack
 
-## 👨‍💻 Linguagens
+<div align="center">
 
-<p align="center">
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+### 👩‍💻 Linguagens
+
 <img src="https://skillicons.dev/icons?i=java,js,html,css" />
-</p>
 
----
+</td>
 
-## 🗄️ Banco de Dados
+<td align="center" width="25%">
 
-<p align="center">
+### 🗄️ Banco de Dados
+
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
 
----
+</td>
 
-## 🛠️ Ferramentas
+<td align="center" width="25%">
 
-<p align="center">
+### 🛠️ Ferramentas
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma" />
-</p>
 
----
+</td>
 
-## 🌱 Atualmente estudando
+<td align="center" width="25%">
 
-<p align="center">
+### 🌱 Atualmente estudando
+
 <img src="https://skillicons.dev/icons?i=spring,python,docker" />
-</p>
 
-- ☁️ Cloud Computing
-- 🤖 Inteligência Artificial
-- 🧠 Machine Learning
-- 🔗 Blockchain
+<br><br>
+
+Cloud • IA • Machine Learning • Blockchain
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
 
