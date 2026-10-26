@@ -150,24 +150,20 @@ Cloud • IA • Machine Learning • Blockchain
 
 ---
 
-# 📫 Vamos nos conectar?
+## 📫 Vamos nos conectar?
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sophia-gottardini">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:gottardinis@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://github.com/gottardinis">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
