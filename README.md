@@ -8,11 +8,11 @@
 
 <br>
 
-<a href="SEU_LINKEDIN">
+<a href="www.linkedin.com/in/sophia-gottardini">
 <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:gottardinis@gmail.com">
 <img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -24,9 +24,9 @@
 
 🎓 Estudante de **Sistemas de Informação na FIAP (4º semestre)**
 
-💼 Atualmente sou **Estagiária de Desenvolvimento na TOTVS**
+💼 Atualmente sou **Estagiária de Gestão na TOTVS**
 
-💻 Tenho interesse em desenvolvimento de software, principalmente **Back-end**, banco de dados e inteligência artificial.
+💻 Tenho interesse em desenvolvimento de software, banco de dados e inteligência artificial.
 
 🚀 Gosto de transformar ideias em soluções através da tecnologia e estou sempre buscando aprender novas ferramentas e boas práticas de desenvolvimento.
 
