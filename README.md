@@ -131,18 +131,22 @@ Cloud • IA • Machine Learning • Blockchain
 
 ---
 
-# 📚 Roadmap
+## 📚 Learning Journey
 
-| Tecnologia | Progresso |
-|------------|-----------|
-| ☕ Java | 🟣🟣🟣🟣⚪ |
-| 💛 JavaScript | 🟣🟣🟣⚪⚪ |
-| 🌐 HTML | 🟣🟣🟣🟣⚪ |
-| 🎨 CSS | 🟣🟣🟣⚪⚪ |
-| 🗄 SQL | 🟣🟣🟣🟣⚪ |
-| 🌱 Spring Boot | 🟣🟣⚪⚪⚪ |
-| ☁️ Cloud | 🟣⚪⚪⚪⚪ |
-| 🤖 IA | 🟣🟣⚪⚪⚪ |
+<div align="center">
+
+| Tecnologia | Nível |
+|:-----------|:-----:|
+| ☕ Java | ⭐⭐⭐⭐☆ |
+| 💛 JavaScript | ⭐⭐⭐☆☆ |
+| 🌐 HTML | ⭐⭐⭐⭐☆ |
+| 🎨 CSS | ⭐⭐⭐☆☆ |
+| 🗄️ SQL | ⭐⭐⭐⭐☆ |
+| 🌱 Spring Boot | ⭐⭐☆☆☆ |
+| ☁️ Cloud | ⭐☆☆☆☆ |
+| 🤖 Inteligência Artificial | ⭐⭐☆☆☆ |
+
+</div>
 
 ---
 
